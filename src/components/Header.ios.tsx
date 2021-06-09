@@ -14,11 +14,11 @@ export function Header() {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#273FAD',
+    backgroundColor: '#483C67',
   },
   header: {
     paddingBottom: 44,
-    backgroundColor: '#273FAD',
+    backgroundColor: '#483C67',
     justifyContent: 'center',
     alignItems: 'center',
     flexDirection: 'row'
